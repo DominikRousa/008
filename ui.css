@@ -1,0 +1,12 @@
+.produkty{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px;
+}
+
+body{
+    margin: 0px;
+    background-color: #ffffff;
+    font-family: "Tahoma", "Tahoma", sans-serif;
+    font-weight: bold;
+}
